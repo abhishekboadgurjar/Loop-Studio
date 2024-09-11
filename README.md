@@ -58,9 +58,7 @@ You can view the live demo of the Loop Studio website [here](#) (https://loop-st
 
 ### Screenshots
 ![Screenshot 2024-09-11 064306](https://github.com/user-attachments/assets/24137541-943a-4175-bf51-dc51285fff9c)
-![Screenshot 2024-09-11 064323](https://github.com/user-attachments/assets/90719ed5-efa3-41da-9b44-a8faa19585a2)
-![Screenshot 2024-09-11 064341](https://github.com/user-attachments/assets/f8771320-9cc0-4317-949f-07b2b754c0a3)
-![Screenshot 2024-09-11 064356](https://github.com/user-attachments/assets/a49ec4a3-f59f-4744-b127-7ce81579c3ca)
+
 
 
 ### Conclusion
