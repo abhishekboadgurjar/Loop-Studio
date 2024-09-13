@@ -1,4 +1,4 @@
-# Loop Studio
+# Loop Studio Website
 
 ### Introduction
 
