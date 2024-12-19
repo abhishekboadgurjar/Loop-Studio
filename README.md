@@ -29,7 +29,7 @@ The Loop Studio website includes the following key sections:
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/abhishekgurjar-in/Loop-Studio.git
+git clone https://github.com/abhishekboadgurjar/Loop-Studio.git
 cd easybank-landing-page
 npm install
 ```
@@ -73,4 +73,4 @@ Building the Loop Studio website with React allows for a modular and maintainabl
 
 ### Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
